@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: zyq
+Build-Jdk: 11.0.4
+Implementation-Title: hxyFrame-activiti-boot
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: hxy.hxyFrame
+Main-Class: ${start-class}
+
